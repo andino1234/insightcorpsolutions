@@ -31,10 +31,13 @@ Abre `index.html` en el navegador o sirve la carpeta con cualquier servidor est�
 npx serve .
 ```
 
+---
+
 ## Autor
 
 **Ariel Geovanny Andino Chinchilla** — Desarrollador Full Stack
 
 - GitHub: [@andino1234](https://github.com/andino1234)
+- Repositorio: [github.com/andino1234/insightcorpsolutions](https://github.com/andino1234/insightcorpsolutions)
 
 Proyecto diseñado y desarrollado por Ariel Geovanny Andino Chinchilla para Insight LATAM. Se publica con fines de portafolio; las credenciales, datos de clientes y archivos de usuarios se excluyeron del repositorio.
